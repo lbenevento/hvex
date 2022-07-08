@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hvce</string>
+    <string name="the_movie_db">The Movie Database</string>
+    <string name="popular">popular</string>
+    <string name="image_des_movie_poster">Image description: Movie poster</string>
+    <string name="loading_error">There was an error, check your internet connection and tap to refresh.</string>
+</resources>
